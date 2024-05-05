@@ -1,0 +1,19 @@
+{
+  "name": "get-fetch-json",
+  "version": "1.0.0",
+  "description": "Fetch a url and get a json format as a response",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uhhhhh1231/get-fetch-json.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "Baymax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uhhhhh1231/get-fetch-json/issues"
+  },
+  "homepage": "https://github.com/uhhhhh1231/get-fetch-json#readme"
+}
